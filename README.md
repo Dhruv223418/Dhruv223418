@@ -1,4 +1,4 @@
-NFO-6109 - Application technology
+INFO-6109 - Application technology
 INFO-6136  - Data technology
 INFO-6110 - operating system
 <!---
